@@ -1,0 +1,45 @@
+body { 
+    background-color: aliceblue;
+}
+img { 
+    margin-left: 10px;
+    margin-top: 50px;
+    border-style: solid;
+    border-radius: 60%;
+    height: 200px;
+    width: 200px;
+    border-color: aliceblue;
+    text-align: left;
+    display: flex;
+}
+.AlaIn {
+    margin-left: 40px;
+    margin-top: 10px;
+    color: rgb(99, 99, 99);
+    font-weight: bold;
+    text-align: left;
+    display: flex;
+
+}
+h3 {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+
+}
+.Persi{
+    margin-left: 300px;
+}
+header {
+    float:left;
+    position: fixed;
+}
+
+.PersE{
+    float:left;
+    position: relative;
+    margin-left: 50px;
+}
+li{
+    margin-top: 15px;
+}
